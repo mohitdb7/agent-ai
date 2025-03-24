@@ -1,0 +1,6 @@
+{
+    "client_id" : "<Enter your Client Id>",
+    "client_secret" : "<Enter your Client Secret Key>",
+    "auth_token" : "<Enter your Auth token>",
+    "urn" : "<Enter your URN>" // To get your URN, execute the `get_user_info` method in `LinkedIn.py` file with your access token
+}

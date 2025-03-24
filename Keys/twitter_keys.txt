@@ -1,0 +1,9 @@
+{
+    "api_key" : "<Enter your API Key>",
+    "api_secret" : "<Enter your API Secret>",
+    "bearer_token" : "<Enter your Bearer Token>",
+    "access_token" : "<Enter your Access Token>",
+    "access_token_secret" : "<Enter your Access Token Secret>",
+    "client_token" : "<Enter your Client Token>",
+    "client_secret" : "<Enter your client Secret>"
+}
